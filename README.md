@@ -30,5 +30,5 @@ This project is a simple command-line based Library Management System implemente
 
 ### Acknowledgement
 
-[Dr. Mostafa Saad course]([https://opensource.org/licenses/MIT](https://www.udemy.com/course/cpp-4skills/)).
+[Dr. Mostafa Saad course](https://www.udemy.com/course/cpp-4skills/)
 
